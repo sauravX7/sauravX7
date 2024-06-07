@@ -17,7 +17,7 @@ src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af
 <p align="left">
 <a href="https://twitter.com/saurav79190356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurav79190356" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-samal-5b404725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurav-samal-5b404725b/" height="30" width="40" /></a>
-<a href="https://instagram.com/s_saurav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_saurav._" height="30" widt<a href="https://instagram.com/s_saurav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_saurav._" height="30" width="40" /></a>
+<a href="https://instagram.com/s_saurav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_saurav._" height="30" 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
