@@ -9,7 +9,7 @@ src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af
 
 - 🌱 I’m currently learning **Power Bi,TensorFlow**
 
-- 💬 Ask me about **Phyton,SQL**
+- 💬 Ask me about **Python,SQL**
 
 - 📫 How to reach me **sauravsamal9@gmail.com**
 
